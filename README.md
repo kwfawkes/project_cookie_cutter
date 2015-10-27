@@ -1,6 +1,6 @@
 
 ##Cookie Cutter Project Script
- Kyle Fawkes & Tiffany Timbers, October 27, 2015, 3:08PM
+ Kyle Fawkes & Tiffany Timbers, October 27, 2015, 3:22PM
 
 This project is a script which when run creates a driectory sturcture for computational projects
  
